@@ -8,7 +8,7 @@ The **solidity_joint_account** creates Solidity smart contract that accepts two 
 
 ## Technologies
 
-This project leverages https://soliditylang.org/ with the following packages:
+This project leverages solidity with the following packages:
 
 * [solidity](https://soliditylang.org/) - For creating the ethereum smart contract
 * [Remix - Ethereum IDE](https://remix.ethereum.org) - For compiling and deploying the ethereum smart contract 
@@ -45,7 +45,7 @@ Deposited_16ETH_in_JointSaving_Contract
 ![Deposited_16ETH_in_JointSaving_Contract](Execution_Results/Deposited_16ETH_in_JointSaving_Contract.png)
 
 
-Withdrawed_15ETH_from_JointSaving_Contract
+Withdrew_15ETH_from_JointSaving_Contract
 ![Withdrawed_15ETH_from_JointSaving_Contract](Execution_Results/Withdrawed_15ETH_from_JointSaving_Contract.png)
 ---
 
